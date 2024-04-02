@@ -55,7 +55,9 @@ This account is not eligible for an automatic refund. Please submit a support re
     This account is not eligible for an automatic refund. Please submit a support request for manual processing.
 
     How to make a refund manually?
-         
+
+    chrome_gCf2uh5xZl.png  
+    
 并附上無法自動退款操作的反饋截圖。
 
 等待就可以了，我的兩個賬號一個是三個小時候退款到賬，另一個兩個小時退款到賬的！

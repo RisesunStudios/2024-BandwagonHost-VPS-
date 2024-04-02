@@ -8,23 +8,36 @@
 
 條件如下：
 
+
 A.您请求退款的服务是在 30 天或更少天前订购的；
+
 Service for which you are requesting a refund was ordered 30 or fewer days ago;
 
+
 B.您在我们的账户信誉良好（即没有逾期欠款）并且没有违反本服务条款的情况；
+
 Your account with us is in good standing (i.e. there are no overdue amounts owing) and there have been no violations of this ToS;
 
+
 C.您之前或当前向我们支付的任何款项均未受到争议或被退款；
+
 None of your payments to us have been previously or currently are disputed or charged back;
 
+
 D.分配给您的 VPS 的 IP 地址均不在任何黑名单或阻止名单中，并且这些 IP 地址之前均未因列入黑名单而被我们替换；
+
 None of the IP addresses assigned to your VPS are on any blacklist or blocklist, and none of those IP addresses were previously replaced by us due to blacklisting;
 
+
 E.您的 VPS 上的每月数据传输使用量低于每月配额的 10%；
+
 The monthly data transfer usage on your VPS is under 10% of your monthly quota;
 
+
 F.此帐户或其他关联帐户下的退款请求数量本质上并不过多或滥用。
+
 The number of refund requests under this or a different associated account is not exessive or abusive in nature.
+
 
 並不存在只有新注冊的賬號可以全額退款，
 
@@ -35,13 +48,13 @@ This account is not eligible for an automatic refund. Please submit a support re
 
 服務商電郵：
 
-          support@bandwagonhost.com
+    support@bandwagonhost.com
 
 電郵正文：
 
-         This account is not eligible for an automatic refund. Please submit a support request for manual processing.
+    This account is not eligible for an automatic refund. Please submit a support request for manual processing.
 
-         How to make a refund manually?
+    How to make a refund manually?
          
 并附上無法自動退款操作的反饋截圖。
 

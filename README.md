@@ -35,7 +35,7 @@ This account is not eligible for an automatic refund. Please submit a support re
 
 服務商電郵：
 
-#support@bandwagonhost.com
+          support@bandwagonhost.com
 
 電郵正文：
 

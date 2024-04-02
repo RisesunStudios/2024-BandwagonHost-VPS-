@@ -33,11 +33,16 @@ This account is not eligible for an automatic refund. Please submit a support re
 
 如果您確定需要退款只要發送電子郵件給搬瓦工的服務商就可以
 
-服務商電郵：	support@bandwagonhost.com
+服務商電郵：
 
-電郵正文：This account is not eligible for an automatic refund. Please submit a support request for manual processing.
+support@bandwagonhost.com
+
+電郵正文：
+
+         This account is not eligible for an automatic refund. Please submit a support request for manual processing.
+
          How to make a refund manually?
          
-并附上自動退款無法操作的截圖。
+并附上無法自動退款操作的反饋截圖。
 
 等待就可以了，我的兩個賬號一個是三個小時候退款到賬，另一個兩個小時退款到賬的！

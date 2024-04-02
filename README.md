@@ -56,7 +56,7 @@ This account is not eligible for an automatic refund. Please submit a support re
 
     How to make a refund manually?
 
-    chrome_gCf2uh5xZl.png  
+   ![image](https://github.com/RisesunStudios/Bandwagon-Vps-Refund/blob/main/chrome_gCf2uh5xZl.png)
     
 并附上無法自動退款操作的反饋截圖。
 

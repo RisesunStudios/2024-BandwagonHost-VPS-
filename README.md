@@ -61,3 +61,16 @@ This account is not eligible for an automatic refund. Please submit a support re
 并附上無法自動退款操作的反饋截圖。
 
 等待就可以了，我的兩個賬號一個是三個小時候退款到賬，另一個兩個小時退款到賬的！
+
+
+Vultr 申请退款很简单，发工单申请就可以了，
+具体操作是去 support 
+点击 open ticket，
+選擇最後一項：Did you find what you need? If not, click here to open a ticket.
+然后出现图片所示的 Create Ticket，
+类别(category)选择 Billing Questions，
+Servier 指的是你要对哪个服务器操作，
+Subject，就写 I want to refund all the balance in my account.  
+Message 写 Please refund all the balance in my account.  
+最后点击 Open Ticket 等待客服回复。
+

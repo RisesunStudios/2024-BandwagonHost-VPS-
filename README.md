@@ -42,6 +42,7 @@ The number of refund requests under this or a different associated account is no
 並不存在只有新注冊的賬號可以全額退款，
 
 在舊帳號申請自動退款的時候會顯示如下内容
+
 This account is not eligible for an automatic refund. Please submit a support request for manual processing.
 
 如果您確定需要退款只要發送電子郵件給搬瓦工的服務商就可以
@@ -63,7 +64,7 @@ This account is not eligible for an automatic refund. Please submit a support re
 等待就可以了，我的兩個賬號一個是三個小時候退款到賬，另一個兩個小時退款到賬的！
 
 
-Vultr 申請退款
+Vultr 申請全額退款或者餘額退款
 
 具體操作如下：
 
@@ -77,9 +78,13 @@ category 選擇 Billing Questions，
 
 Servier 指的是您要對那個服務器操作
 
-Subject，輸入 I want to refund all the balance in my account.  
+Subject，輸入:
 
-Message 輸入 Please refund all the balance in my account.  
+    I want to refund all the balance in my account.  
+
+Message 輸入：
+
+    Please refund all the balance in my account.  
 
 最後點擊 Open Ticket 等待客服回復。
 
